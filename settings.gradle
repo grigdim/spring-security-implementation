@@ -1,0 +1,2 @@
+rootProject.name = 'spring-security'
+include("spring-security-client", "Oauth-authorization-server", "OAuth-resource-server")
